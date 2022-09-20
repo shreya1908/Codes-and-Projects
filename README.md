@@ -1,2 +1,3 @@
 # MyCaptain
-Tasks given for MyCaptain Python workshop.
+Tasks given for MyCaptain Workshops.
+Programs done in C, C++, Java, Python
